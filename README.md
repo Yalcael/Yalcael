@@ -1,5 +1,5 @@
 - 🐰 Hi, I’m Vincent LEMAIRE aka @Yalcael | 🇫🇷
-- 💚 I am interested in a variety of topics, including learning, esports, and manga. Specifically, I enjoy VS Fighting and League of Legends as esports, and I am a huge fan of Detective Conan and Great Teacher Onizuka manga. Additionally, I have a a fondness for the colours green, orange and grey. 🧡 I love animals. Maybe one day, I would like to learn the saxophone and the flute. 🎷
+- 💚 I am interested in a variety of topics, including learning, esports, and manga. Specifically, I enjoy VS Fighting and League of Legends as esports, and I am a huge fan of Detective Conan and Great Teacher Onizuka manga. Additionally, I have a a fondness for the colours green, orange and grey. 🧡 I love animals. Maybe one day, I would like to learn the saxophone. 🎷
 - 🧠 I am currently studying Python and Go, as well as a lot of DevOps tools such as Docker, Terraform, Ansible, AWS, GCP and Kubernetes. 🤔
 - 📫 How to reach me ... Well, it's quite simple. Email : vincent.lemaire1999@gmail.com 📧 | Discord : yalcael 👽 | X : @Yalcael ❌
 - 🕵️‍♂️ Fun fact: I may be a vampire ... 🧛 or an owl 🦉, or perhaps both. 🌑
