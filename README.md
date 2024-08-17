@@ -8,7 +8,10 @@
   graph TD;
       LeagueOfLegend-->Code;
       Code-->Eat;
-      Eat-->Sleep;
+      Eat-->osu!;
+      osu!-->LearningChinese;
+      LearningChinese-->Anime;
+      Anime-->Sleep;
       Sleep-->LeagueOfLegend;
 ```
 # See you later alligator 🐊
