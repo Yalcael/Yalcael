@@ -1,18 +1,17 @@
 # 🐰  Howdy!
 🇫🇷
 
-## 💻 Welcome to the Clown Fiesta:
-### Currently riding the Go rollercoasters, navigating the wild, untamed jungles of DevOps and Cloud. 🤡
-#### 🕵️‍♂️ I could be a nocturnal vampire 🧛, a wise owl 🦉, or maybe a blend of both for midnight snacks. 🌑 (Sunlight and garlic? Nah, not my style.)
+## While some people are chasing sunsets, I'm chasing syntax errors in Go, wrangling bugs in Zig, and deploying clouds like a digital weather wizard!
+#### 🕵️‍♂️ By day, I’m in stealth mode, but by night, I’m a soda-fueled vampire, thriving in the moonlight while the world sleeps! 🧛
 ```mermaid
   graph TD;
-      LeagueOfLegend-->Code;
-      Code-->Eat;
-      Eat-->osu!;
-      osu!-->LearningChinese;
+      Code-->osu!;
+      osu!-->LeagueOfLegends;
+      LeagueOfLegends-->LearningChinese;
       LearningChinese-->Anime;
-      Anime-->Sleep;
-      Sleep-->LeagueOfLegend;
+      Anime-->Read;
+      Read-->Sleep;
+      Sleep-->Code;
 ```
 # See you later alligator 🐊
 <!---
